@@ -1,0 +1,15 @@
+{
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "ota": {
+        "md5": "firmware.md5",
+        "path": "firmware.ota.bin",
+        "release_url": "https://raw.githubusercontent.com/TheDuc/esphome-firmware/main/presence/firmware.ota.bin",
+        "summary": "ESP32-C3 Presence device"
+      }
+    }
+  ],
+  "name": "presence-provisioning",
+  "version": "0.0.1"
+}
