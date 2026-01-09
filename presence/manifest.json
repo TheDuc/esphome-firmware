@@ -3,7 +3,7 @@
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "md5": "firmware.md5",
+        "md5": "08add74399bb46b096a3fc4e598b4111",
         "path": "firmware.ota.bin",
         "release_url": "https://raw.githubusercontent.com/TheDuc/esphome-firmware/main/presence/firmware.ota.bin",
         "summary": "ESP32-C3 Presence device"
