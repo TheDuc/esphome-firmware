@@ -1,0 +1,15 @@
+{
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "ota": {
+        "md5": "3a75720f45b60e45e5b7f198f50a2c6e",
+        "path": "firmware.ota.bin",
+        "release_url": "https://raw.githubusercontent.com/TheDuc/esphome-firmware/main/rfid_reader/firmware.ota.bin",
+        "summary": "ESP32-C3 RFID reader device"
+      }
+    }
+  ],
+  "name": "RFID Reader",
+  "version": "0.0.1"
+}
